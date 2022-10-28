@@ -1,16 +1,7 @@
-# password_strength_checker
+# Validação de Formulário com Regex
+## Validação de Formulário com Regex e Gerenciamento de Estado com GetX
 
-A new Flutter project.
+Abaixo o gif do funcionamento de todo o app, ao clicar no formulário, ja é pedido para inserir a senha, a barrinha vai aumentando e mudando de cor conforme a senha cresce, o botão de continuar é habilitado assim que "a senha é aceitável, mas não é forte", o teclado desaparece ao clicar em qualquer parte do app, a parte mostrar e ocultar senha está sendo feito com GetX.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://github.com/renatodacostanunes/validacao_formulario/blob/master/validacao_formulario.gif)
